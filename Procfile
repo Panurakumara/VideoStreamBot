@@ -1,1 +1,1 @@
-worker: python3 -m VideoxD
+web: python3 -m VideoxD
